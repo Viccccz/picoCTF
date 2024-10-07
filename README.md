@@ -1,1 +1,1 @@
-picoCTF CTF Writeup / Walkthrough
+picoCTF Writeup / Walkthrough
