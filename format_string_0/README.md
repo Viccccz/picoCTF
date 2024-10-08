@@ -6,7 +6,7 @@ _#picoCTF_2024_<br>
 _#browser_webshell_solvable_<br>
 _#format_string_<br>
 
-Can you use your knowledge of format strings to make the customers happy?<br>
+Can you use your knowledge of ***format strings*** to make the customers happy?<br>
 
 Download the binary. [here](../format_string_0/format_string_0)<br>
 Download the source. [here](../format_string_0/format_string_0.c)
