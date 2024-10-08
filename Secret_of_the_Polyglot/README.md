@@ -12,16 +12,11 @@ The Network Operations Center (NOC) of your local institution picked up a suspic
 
 ## Solution
 
-1. Unzip folder.
-2. Move to drop-in directory.<br>
-   `cd drop-in/`
-3. Check the file extension.<br>
-   `file guessing_game.sh`
-4. Execute the file.<br>
-   `./guessing_game.sh`
-5. Input numbers.<br>
-> [!TIP]
-> Input the middle number *(range number / 2 = middle number)*
-
-6. Get the flag.
-
+1. Download the given pdf.
+2. Check the file extension.<br>
+   `file flag.pdf`
+3. Change the file extension to png.<br>
+   `mv flag.pdf flag.png`
+4. Open the png file.<br>
+   `eog flag.png`
+5. Combine two flags together and we'll get the completed flag.<br>
