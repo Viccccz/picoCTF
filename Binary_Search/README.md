@@ -22,5 +22,7 @@ Cyber security often has a huge amount of data to look through - from logs, vuln
 4. Execute the file.<br>
    `./guessing_game.sh`
 5. Input numbers.<br>
-   *Tips: input the middle number *(range number / 2 = middle number)*
+> [!TIP]
+> Input the middle number *(range number / 2 = middle number)*
+
 6. Get the flag.
