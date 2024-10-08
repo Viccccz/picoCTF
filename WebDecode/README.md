@@ -5,7 +5,7 @@ _#picoCTF_2024_<br>
 _#Web_Exploitation_<br>
 _#browser_webshell_solvable_<br>
 
-Do you know how to use the web inspector?
+Do you know how to use the ***web inspector***?
 
 ## Solution
 
