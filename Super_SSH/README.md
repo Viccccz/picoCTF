@@ -7,7 +7,7 @@ _#shell_<br>
 _#browser_webshell_solvable_<br>
 _#ssh_<br>
 
-Using a Secure Shell (SSH) is going to be pretty important.
+Using a ***Secure Shell (SSH)*** is going to be pretty important.
 
 ## Solution
 
