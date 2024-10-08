@@ -13,8 +13,8 @@ People keep trying to trick my players with imitation flags. I want to make sure
 
 ## Solution
 
-1. Unzip folder
-2. Move to drop-in directory<br>
+1. Unzip folder.
+2. Move to drop-in directory.<br>
    `cd drop-in/`
 4. Create SHA checksum of all files in file directory and find for the same checksum with the files in files.<br>
    `sha256sum files/* | grep 'fba9f49bf22aa7188a155768ab0dfdc1f9b86c47976cd0f7c9003af2e20598f7'`
