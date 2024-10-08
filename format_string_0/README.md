@@ -1,1 +1,30 @@
+# Description
+
+#Easy<br>
+#Binary_Exploitation<br>
+#picoCTF_2024<br>
+#browser_webshell_solvable<br>
+#format_string<br>
+
+Can you use your knowledge of format strings to make the customers happy?<br>
+
+Download the binary. [here](../format_string_0/format_string_0)<br>
+Download the source. [here](../format_string_0/format_string_0.c)
+
+## Solution
+
+### Heap  
+An Area of pre-reserved computer main storage (memory) that a program process can use to store data.<br>
+In this case, we need to overflow the memory and hence it display the flag.<br>
+
+1. Select option __1__ to check for the heap state.
+2. Select option __2__ to write something to overflow it.<br>
+> [!TIP]
+> The position that we can write is 0x63c3882552b0.<br>
+  The position of the variable is shown to be corrupted in 0x63c3882552d0.<br>
+  Substracting this two position could gives us 0x20, or 32 in decimal.<br>
+  Hence, we need to input a 33 byte string without spaces.
+   
+4. Select option __4__ to get the flag.
+
 
