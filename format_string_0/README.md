@@ -13,18 +13,20 @@ Download the source. [here](../format_string_0/format_string_0.c)
 
 ## Solution
 
-### Heap  
-An Area of pre-reserved computer main storage (memory) that a program process can use to store data.<br>
-In this case, we need to overflow the memory and hence it display the flag.<br>
-
-1. Select option __1__ to check for the heap state.
-2. Select option __2__ to write something to overflow it.<br>
 > [!TIP]
-> The position that we can write is 0x63c3882552b0.<br>
-  The position of the variable is shown to be corrupted in 0x63c3882552d0.<br>
-  Substracting this two position could gives us 0x20, or 32 in decimal.<br>
-  Hence, we need to input a 33 byte string without spaces.
-   
-4. Select option __4__ to get the flag.
+> Look into the source code!
 
+1. Recommendation for 1st customer: :speech_balloon:
+![image](https://github.com/user-attachments/assets/fcff728b-a9f7-4c46-ba3c-71c019ccf43b)
 
+   - When looking into the source code<br>
+![image](https://github.com/user-attachments/assets/c3493633-035a-4ab5-8507-1bddaff16dc1)
+
+      - `if (count > 2 * BUFSIZE)` -> checks if the printed characters exceed 64 bytes (since BUFSIZE is defined as 32 bytes)<br>
+      - So the answer is __Gr%114d_Cheese__ because it has 13 character and can print 144 characters when printing `%114d`
+      - Therefore, __Gr%114d_Cheese__ can be used to overflow the variable and hence proceed to next question.
+
+2. Recommendation for 2nd customer: :speech_balloon:
+![image](https://github.com/user-attachments/assets/6b3e5d83-39e5-4517-8a24-4d8678542a24)
+
+   - When looking into the options given, only __Cla%s%steak__ is the one which contains `%s` that is used to printf valid strings.<br>
