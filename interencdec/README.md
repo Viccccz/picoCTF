@@ -13,9 +13,9 @@ Can you get the real meaning from this file.
 
 ## Solution
 
-1. Check for the file extension.
+1. Check for the file extension.<br>
    `file enc_flag`
-2. Check the file for any human-readable strings or display the whole content.
+2. Check the file for any human-readable strings or display the whole content.<br>
    `strings enc_flag` or `cat enc_flag`
 3. Decode the strings from base64.
 4. Remove the "d" in front and then decode again from base64.
