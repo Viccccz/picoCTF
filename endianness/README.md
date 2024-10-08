@@ -11,7 +11,7 @@ Know of little and big endian?
 
 ## Solution
 
-1. Unzip folder.
+1. .
 2. Move to drop-in directory.<br>
    `cd drop-in/`
 3. Check the file extension.<br>
