@@ -13,10 +13,5 @@ Do you know how to use the web inspector?
 1. Enter the website by clicking on the link given.
 2. Right click on the website and enter inspect.
 3. Try navigating across all pages.
-4. Then we'll find a code in the about page.
-   ![image](https://github.com/user-attachments/assets/67848841-f814-4fdb-a478-cc108023027b)
-   
-6. Convert it from Base64 and we'll get the flag.
-> [!TIP]
-> Online decoder: [CyberChef](https://gchq.github.io/CyberChef/)
-
+4. Then we'll find the flag in the page.
+   ![image](https://github.com/user-attachments/assets/700b09d2-c31d-413e-b6ca-df35e79b397e)
