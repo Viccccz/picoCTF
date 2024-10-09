@@ -8,16 +8,9 @@ Python scripts are invoked kind of like programs in the Terminal... Can you run 
 
 ## Solution
 
-1. Unzip folder.
-2. Move to drop-in directory.<br>
-   `cd drop-in/`
-3. Check the file extension.<br>
-   `file guessing_game.sh`
-4. Execute the file.<br>
-   `./guessing_game.sh`
-5. Input numbers.<br>
-> [!TIP]
-> Input the middle number *(range number / 2 = middle number)*
-
-6. Get the flag.
-
+1. First open the python script to understand the source code.
+2. We found that it is used to decrypt a file named "pole.txt". So we rename our "python_wrangling.en" to "pole.txt".
+3. Then, we run the python script with the file "pole.txt".<br>
+   `python3 python_wrangling.py -d pole.txt`
+4. Get the password from "python_wrangling.txt" and enter to decrypt the file.
+5. Get the flag.
