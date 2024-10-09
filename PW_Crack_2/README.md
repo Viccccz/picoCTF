@@ -10,8 +10,8 @@ Download the password checker [here](../PW_Crack_2/pw_crack_2.py) and you'll nee
 
 ## Solution
 
-1. Execute the "pw_crack_2.py".<br>
-   `python3 pw_crack_2.py`
+1. Get the usable/valuable information from "pw_crack_2.py".<br>
+   `strings pw_crack_2.py` or `cat pw_crack_2.py`
 
 > [!IMPORTANT]
 > Remember to install the package using `sudo apt install python3` before executing the script.
