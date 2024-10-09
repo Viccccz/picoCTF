@@ -4,7 +4,7 @@ _#Easy_<br>
 _#General_Skills_<br>
 _#picoCTF_2021_<br>
 
-Do you know how to move between directories and read files in the shell? Start the container, `ssh` to it, and then `ls` once connected to begin. Login via `ssh` as `ctf-player` with the password, `ee388b88`
+Do you know how to ***move between directories*** and read files in the shell? Start the container, `ssh` to it, and then `ls` once connected to begin. Login via `ssh` as `ctf-player` with the password, `ee388b88`
 
 ## Solution
 
