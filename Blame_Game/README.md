@@ -16,12 +16,11 @@ Someone's commits seems to be preventing the program from working. Who is it?
 2. Move to drop-in directory.<br>
    `cd drop-in/`
 3. Check the file extension.<br>
-   `file guessing_game.sh`
+   `file message.py`
 4. Execute the file.<br>
-   `./guessing_game.sh`
-5. Input numbers.<br>
-> [!TIP]
-> Input the middle number *(range number / 2 = middle number)*
-
+   `python3 messgae.py`
+5. Check the restore version of the file.
+   `git log message.py`
 6. Get the flag.
-
+   
+   ![image](https://github.com/user-attachments/assets/9fbe1fd8-09a7-4aaa-a64d-5985ab0dbcf5)
