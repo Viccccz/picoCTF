@@ -10,17 +10,16 @@ Download the password checker [here](../PW_Crack_1/pw_crack_1.py) and you'll nee
 
 ## Solution
 
-1. Execute the "pw_crack_2.py".<br>
-   `python3 pw_crack_2.py`
+1. Get the usable/valuable information from "pw_crack_1.py".<br>
+   `strings pw_crack_1.py` or `cat pw_crack_1.py`
 
 > [!IMPORTANT]
 > Remember to install the package using `sudo apt install python3` before executing the script.
 
-2. We can see there are hexadecimal values for the password.
+2. We can see there is a password shown.
    
-   ![image](https://github.com/user-attachments/assets/f641ad40-48b5-4646-a323-067bb7ededb7)
+   ![image](https://github.com/user-attachments/assets/6c560c9d-44e2-4dca-9de8-a822f3b33869)
 
-   - From the source code, we can convert from hexadecimal. [CyberChef](https://gchq.github.io/CyberChef/)
-   - Answer is ***4ec9***
+   - Answer is ***8713***
 
 3. Input the password and we'll get the flag.
