@@ -4,7 +4,7 @@ _#Easy_<br>
 _#General_Skills_<br>
 _#picoGym_Exclusive_<br>
 
-Unzip this archive and find the file named 'uber-secret.txt'
+Unzip this archive and find the file named ***'uber-secret.txt'***
 
 [Challenge](../First_Find/first_find.zip)
 
