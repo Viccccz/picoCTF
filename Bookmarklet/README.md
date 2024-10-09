@@ -11,16 +11,10 @@ Why search for the flag when I can make a bookmarklet to print it for me?
 
 ## Solution
 
-1. Unzip folder.
-2. Move to drop-in directory.<br>
-   `cd drop-in/`
-3. Check the file extension.<br>
-   `file guessing_game.sh`
-4. Execute the file.<br>
-   `./guessing_game.sh`
-5. Input numbers.<br>
-> [!TIP]
-> Input the middle number *(range number / 2 = middle number)*
+1. Open the part of source code given.
+   
+   ![image](https://github.com/user-attachments/assets/57bfa103-123a-48df-a4d9-d62f75ac33e6)
 
-6. Get the flag.
-
+2. Then right click on the website and enter inspect.
+3. Enter the console tab and paste the code copied.
+4. Get the flag.
