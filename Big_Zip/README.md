@@ -10,16 +10,14 @@ Unzip this archive and find the flag.
 
 ## Solution
 
-1. Unzip folder.
+1. Unzip folder.<br>
 2. Move to drop-in directory.<br>
-   `cd drop-in/`
-3. Check the file extension.<br>
-   `file guessing_game.sh`
-4. Execute the file.<br>
-   `./guessing_game.sh`
-5. Input numbers.<br>
-> [!TIP]
-> Input the middle number *(range number / 2 = middle number)*
+   `cd big-zip-files/`
+3. As there are many files and folders and we are unable to check one by one, hence we will use grep to search for the keyword "pico" in order to find the flag.<br>
+   `grep -r big-zip-files -e pico`
 
-6. Get the flag.
-
+> [!NOTE]
+> -r is used to search recursively, meaning that it will search through all files in the specific directories and its subdirectories.<br>
+> -e is used to define the pattern to search for.
+   
+4. Get the flag.
