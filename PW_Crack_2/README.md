@@ -5,7 +5,7 @@ _#General_Skills_<br>
 _#Begineer_picoMini_2022_<br>
 _#password_cracking_<br>
 
-Can you crack the password to get the flag?
+Can you ***crack the password*** to get the flag?<br>
 Download the password checker [here](../PW_Crack_2/pw_crack_2.py) and you'll need the encrypted [flag](../PW_Crack_2/pw_crack_2.enc) in the same directory too.
 
 ## Solution
