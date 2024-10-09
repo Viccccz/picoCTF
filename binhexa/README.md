@@ -146,5 +146,5 @@ Example Binary Number 2: 00101111
 7. Result of last answer in hexadecimal: ***297E***
  
 > [!TIP]
-> [Binary Calculator](https://www.calculator.net/binary-calculator.html)
+> [Binary Calculator](https://www.calculator.net/binary-calculator.html)<br>
 > [Binary to Hex Converter](https://www.rapidtables.com/convert/number/binary-to-hex.html)
