@@ -7,7 +7,7 @@ _#obfuscation_<br>
 _#browser_webshell_solvable_<br>
 _#browser_<br>
 
-Why search for the flag when I can make a bookmarklet to print it for me?
+Why search for the flag when I can make a ***bookmarklet*** to print it for me?
 
 ## Solution
 
