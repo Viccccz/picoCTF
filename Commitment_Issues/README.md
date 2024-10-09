@@ -16,12 +16,15 @@ I accidentally wrote the flag down. Good thing I deleted it!
 2. Move to drop-in directory.<br>
    `cd drop-in/`
 3. Check the file extension.<br>
-   `file guessing_game.sh`
-4. Execute the file.<br>
-   `./guessing_game.sh`
-5. Input numbers.<br>
-> [!TIP]
-> Input the middle number *(range number / 2 = middle number)*
+   `file message.txt`
+4. Try gaining usable information from the file.<br>
+   `strings messgae.txt` or `cat message.txt`
+5. Check the previous version of file.<br>
+   `git log messgae.txt`
+6. Restore the file to the specific version we want.<br>
+   `git checkout b562f0b425907789d11d2fe2793e67592dc6be93`
+   
+   ![image](https://github.com/user-attachments/assets/66afd34f-9437-46fe-aabc-76c4cf85a766)
 
-6. Get the flag.
+8. Get the flag.
 
