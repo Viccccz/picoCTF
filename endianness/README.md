@@ -75,4 +75,6 @@ Example word: ozoak
 
   2. The order would be : 6F(o) 7A(z) 6F(o) 61(a) 6B(k)
   3. Answer is **6F7A6F616B**
-
+ 
+> [!TIP]
+> ![image](https://github.com/user-attachments/assets/479b3ce5-650d-405a-9a95-05558ccb02f2)
