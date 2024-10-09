@@ -12,15 +12,15 @@ Fix the syntax error in the Python script to print the flag.
 ## Solution
 
 1. Execute the python script.
-   `python3 fixme2.py`
+   `python3 fixme1.py`
 2. Read the source code and fix the syntax error.
-   `cat fixme2.py`
+   `cat fixme1.py`
    
-   ![image](https://github.com/user-attachments/assets/ad274b5b-62b1-49f6-97d9-aeaf02da689a)
+   ![image](https://github.com/user-attachments/assets/6cd474b7-8fa9-495a-8180-36bf4804765f)
 
-   - change "=" to "=="
+   - remove the spaces before `print`
 
 3. Run again the python script.
-   `python3 fixme2.py`
+   `python3 fixme1.py`
 4. Get the flag.
 
