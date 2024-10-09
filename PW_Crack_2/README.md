@@ -13,7 +13,11 @@ Download the password checker [here](../PW_Crack_2/pw_crack_2.py) and you'll nee
 1. Execute the "pw_crack_2.py".
    `python3 pw_crack_2.py`
 
+> [!IMPORTANT]
+> Remember to install the package using `sudo apt install python3` before executing the script.
 
+2. We can see there are hexadecimal values for the password.
+   
+   ![image](https://github.com/user-attachments/assets/f641ad40-48b5-4646-a323-067bb7ededb7)
 
-3. 
-
+   From the source code, we can convert the hexadecimal to 
