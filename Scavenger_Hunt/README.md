@@ -31,6 +31,16 @@ There is some interesting information hidden around this site. Can you find it?
    - There is also a hint for the nxt part of flag.
 
 > [!NOTE]
-> To access to the apache server, we can change the directory to "/htacess
+> To access to the apache server, we can change the directory to "/.htacess"
 
-6. 
+6. Change the file to .htaccess to get the flag.
+
+   ![image](https://github.com/user-attachments/assets/ff3921ea-5c84-44d4-bd29-dcb1eccbb347)
+
+> [!NOTE]
+> To access to the apache server, we can change the directory to "/.DS_Store"
+
+7. Change the file to .DS_Store to get the flag.
+
+   ![image](https://github.com/user-attachments/assets/befc0c8b-7882-4909-b2fa-ec2c626fbefd)
+
