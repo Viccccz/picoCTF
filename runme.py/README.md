@@ -5,7 +5,7 @@ _#General_Skills_<br>
 _#Beginner_picoMini_2022_<br>
 _#Python_<br>
 
-Run the runme.py script to get the flag.
+***Run*** the runme.py script to get the flag.
 
 [Challenge](../runme.py/runme.py.py)
 
