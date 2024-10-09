@@ -33,3 +33,5 @@ How about some hide and seek?
     ![image](https://github.com/user-attachments/assets/d67fd94d-cdf9-40bf-9887-ab0aef89e769)
 
 10. After decode, we'll get the flag.
+> [!TIP]
+> Online decoder: [CyberChef](https://gchq.github.io/CyberChef/)
