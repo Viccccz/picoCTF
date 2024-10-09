@@ -5,7 +5,7 @@ _#General_Skills_<br>
 _#Begineer_picoMini_2022_<br>
 _#Python_<br>
 
-Fix the syntax error in the Python script to print the flag.
+Fix the ***syntax error*** in the Python script to print the flag.
 
 [Challenge](../fixme2.py/fixme2.py)
 
