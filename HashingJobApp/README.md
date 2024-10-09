@@ -8,7 +8,7 @@ _#nc_<br>
 _#shell_<br>
 _#Python_<br>
 
-If you want to hash with the best, beat this test!
+If you want to ***hash*** with the best, beat this test!
 
 ## Solution
 
