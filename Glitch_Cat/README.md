@@ -7,7 +7,7 @@ _#nc_<br>
 _#shell_<br>
 _#Python_<br>
 
-Our flag printing service has started glitching!
+Our flag printing service has started ***glitching***!
 
 ## Solution
 
