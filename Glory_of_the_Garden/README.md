@@ -8,16 +8,9 @@ This [garden](../Glory_of_the_Garden/glory_of_the_garden.jpg) contains more than
 
 ## Solution
 
-1. Unzip folder.
-2. Move to drop-in directory.<br>
-   `cd drop-in/`
-3. Check the file extension.<br>
-   `file guessing_game.sh`
-4. Execute the file.<br>
-   `./guessing_game.sh`
-5. Input numbers.<br>
-> [!TIP]
-> Input the middle number *(range number / 2 = middle number)*
-
-6. Get the flag.
+1. Check the file extension.<br>
+   `file glory_of_the_garden.jpg`
+2. Get any usable/valuable information from the image.<br>
+   `strings glory_of_the_garden.jpg` or `cat glory_of_the_garden.jpg`
+3. Get the flag.
 
