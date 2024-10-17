@@ -9,7 +9,7 @@ _#browser_webshell_solvable_<br>
 This program doesn't contain a win function. How can you win?<br>
 Download the binary [here](../format_string_3/format_string_3).<br>
 Download the source [here](../format_string_3/format_string_3).<br>
-Download libc [here](../format_string_3/format_string_3), download the interpreter [here](../format_string_3/format_string_3). Run the binary with these two files present in the same directory.
+Download libc [here](../format_string_3/format_string_3), download the interpreter [here](../format_string_3/ld-linux-x86-64.so.2). Run the binary with these two files present in the same directory.
 
 ## Solution
 
