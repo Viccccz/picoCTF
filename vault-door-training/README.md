@@ -10,16 +10,10 @@ Your mission is to enter Dr. Evil's laboratory and retrieve the blueprints for h
 
 ## Solution
 
-1. Unzip folder.
-2. Move to drop-in directory.<br>
-   `cd drop-in/`
-3. Check the file extension.<br>
-   `file guessing_game.sh`
-4. Execute the file.<br>
-   `./guessing_game.sh`
-5. Input numbers.<br>
-> [!TIP]
-> Input the middle number *(range number / 2 = middle number)*
+1. Open the java script to investigate.
+2. Noticing that the password is given and can simply make it a flag format.
 
-6. Get the flag.
+   ![image](https://github.com/user-attachments/assets/3fe03bc0-a57e-43f5-98e3-93260ff1616a)
+
+3. Get the flag.
 
