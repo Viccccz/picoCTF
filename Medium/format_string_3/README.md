@@ -13,4 +13,16 @@ Download libc [here](../format_string_3/libc.so.6), download the interpreter [he
 
 ## Solution
 
-1. 
+1. We first grant executable permission to both binary and interpreter file.<br>
+   `chmod +x format_string_3 ld-linux-x86-64.so.2`
+
+2. Then, run the binary file to investigate the output and find out vulnerabilities.<br>
+   `./formst_string_3`
+
+   ![image](https://github.com/user-attachments/assets/ddb07337-8413-422b-bd0e-68d678e620bd)<br>
+   *Note: After trying some inputs, it outputs some different answer. To read arbitrary stack values, input [format specifiers](https://unstop.com/blog/format-specifiers-in-c) such as %f (float) or %p (pointer).*
+
+3. After finding out the problem of the source code, we can exploit it to get the flag.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
