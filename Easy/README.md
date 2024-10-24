@@ -30,5 +30,13 @@
 28. [Obedient-Cat](Obedient-Cat)
 29. [PW-Crack-1](PW-Crack-1)
 30. [PW-Crack-2](PW-Crack-2)
-
+31. [Python-Wrangling](Python-Wrangling)
+32. [Scan-Surprise](Scan-Surprise)
+33. [Scavenger-Hunt](Scavenger-Hunt)
+34. [Secret-of-the-Polyglot](Secret-of-the-Polyglot)
+35. [Static-aint't-always-noise](Static-aint't-always-noise)
+36. [Super-SSH](Super-SSH)
+37. [Tab,Tab,Attack](Tab,Tab,Attack)
+38. [The-Numbers](The-Numbers)
+39. 
 
