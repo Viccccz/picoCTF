@@ -8,7 +8,7 @@ _#git_<br>
 
 Someone's commits seems to be preventing the program from working. ***Who*** is it?
 
-[Challenge](../Binary_Search/binary_search.zip)
+[Challenge](Blame-Game.zip)
 
 ## Solution
 
