@@ -6,7 +6,7 @@ _#Begineer_picoMini_2022_<br>
 _#shell_<br>
 _#Python_<br>
 
-Run the [Python script](CodeBook.py) in the ***same directory*** as [codebook.txt](CodeBook.txt).
+Run the [Python script](CodeBook.py) in the ***same directory*** as [CodeBook.txt](CodeBook.txt).
 
 ## Solution
 
