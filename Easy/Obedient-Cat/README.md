@@ -6,7 +6,7 @@ _#picoCTF_2021_<br>
 
 This file has a flag in plain sight (aka "in-the-clear").
 
-[Challenge](../Obedient_Cat/obedient_cat)
+[Challenge](Obedient-Cat)
 
 ## Solution
 
