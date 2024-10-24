@@ -6,7 +6,7 @@ _#picoGym_Exclusive_<br>
 
 Unzip this archive and find the flag.
 
-[Challenge](../Easy/Big_Zip/big_zip.zip)
+[Challenge](../Big_Zip/big_zip.zip)
 
 ## Solution
 
