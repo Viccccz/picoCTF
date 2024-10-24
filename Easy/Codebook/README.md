@@ -11,5 +11,5 @@ Run the [Python script](CodeBook.py) in the ***same directory*** as [CodeBook.tx
 ## Solution
 
 1. Execute the python script.<br>
-   `python3 codebook.py`
+   `python3 CodeBook.py`
 2. Get the flag.
