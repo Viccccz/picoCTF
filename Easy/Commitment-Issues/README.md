@@ -8,7 +8,7 @@ _#git_<br>
 
 I accidentally wrote the flag down. Good thing I ***deleted*** it!
 
-[Challenge](../Commitment_Issues/commitment_issues.zip)
+[Challenge](Commitment-Issues.zip)
 
 ## Solution
 
