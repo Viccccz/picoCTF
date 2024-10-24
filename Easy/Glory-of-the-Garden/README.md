@@ -4,7 +4,7 @@ _#Easy_<br>
 _#Forensics_<br>
 _#picoCTF_2019_<br>
 
-This [garden](../Glory_of_the_Garden/glory_of_the_garden.jpg) contains more than it seems.
+This [garden](Glory-of-the-Garden.jpg) contains more than it seems.
 
 ## Solution
 
