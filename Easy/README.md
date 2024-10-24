@@ -38,5 +38,8 @@
 36. [Super-SSH](Super-SSH)
 37. [Tab,Tab,Attack](Tab,Tab,Attack)
 38. [The-Numbers](The-Numbers)
-39. 
+39. [The-Machine](The-Machine)
+40. [Transformation](Transformation)
+41. [Unminify](Unminify)
+42. [Verify](Verify)
 
