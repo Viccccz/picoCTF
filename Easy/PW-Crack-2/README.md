@@ -6,12 +6,12 @@ _#Begineer_picoMini_2022_<br>
 _#password_cracking_<br>
 
 Can you ***crack the password*** to get the flag?<br>
-Download the password checker [here](../PW_Crack_2/pw_crack_2.py) and you'll need the encrypted [flag](../PW_Crack_2/pw_crack_2.enc) in the same directory too.
+Download the password checker [here](PW-Crack-2.py) and you'll need the encrypted [flag](PW-Crack-2.enc) in the same directory too.
 
 ## Solution
 
 1. Get the usable/valuable information from "pw_crack_2.py".<br>
-   `strings pw_crack_2.py` or `cat pw_crack_2.py`
+   `strings PW-Crack-2.py` or `cat PW-Crack-2.py`
 
 > [!IMPORTANT]
 > Remember to install the package using `sudo apt install python3` before executing the script.
