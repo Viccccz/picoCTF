@@ -6,7 +6,7 @@ _#picoGym_Exclusive_<br>
 
 Unzip this archive and find the file named ***'uber-secret.txt'***
 
-[Challenge](../First_Find/first_find.zip)
+[Challenge](First-Find.zip)
 
 ## Solution
 
