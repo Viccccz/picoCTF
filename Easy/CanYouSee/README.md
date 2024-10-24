@@ -7,7 +7,7 @@ _#browser_webshell_solvable_<br>
 
 How about some hide and seek?
 
-[Challenge](../CanYouSee/canyousee.zip)
+[Challenge](CanYouSee.zip)
 
 ## Solution
 
