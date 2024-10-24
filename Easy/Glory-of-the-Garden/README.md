@@ -9,8 +9,8 @@ This [garden](Glory-of-the-Garden.jpg) contains more than it seems.
 ## Solution
 
 1. Check the file extension.<br>
-   `file glory_of_the_garden.jpg`
+   `file Glory-of-the-Garden.jpg`
 2. Get any usable/valuable information from the image.<br>
-   `strings glory_of_the_garden.jpg` or `cat glory_of_the_garden.jpg`
+   `strings Glory-of-the-Garden.jpg` or `cat Glory-of-the-Garden.jpg`
 3. Get the flag.
 
