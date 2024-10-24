@@ -6,7 +6,7 @@ _#picoCTF_2021_<br>
 
 Using ***tabcomplete*** in the Terminal will add years to your life, esp. when dealing with long rambling directory structures and filename
 
-[Challenge](../Tab,Tab,Attack/tab,tab,attack.zip)
+[Challenge](Tab,Tab,Attack.zip)
 
 ## Solution
 
