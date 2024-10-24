@@ -1,7 +1,7 @@
 # Description
 
 _#Easy_<br>
-_#Web_Exploitation<br>
+_#Web_Exploitation_<br>
 _#picoCTF_2024_<br>
 
 ## Solution
