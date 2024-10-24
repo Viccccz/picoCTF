@@ -9,7 +9,7 @@ _#qrcode_<br>
 
 I've gotten bored of handing out flags as text. Wouldn't it be cool if they were an image instead?
 
-[Challenge](../Scan_Surprise/scan_surprise.zip)
+[Challenge](Scan-Surprise.zip)
 
 ## Solution
 
