@@ -7,7 +7,7 @@ _#Python_<br>
 
 ***Run*** the runme.py script to get the flag.
 
-[Challenge](../runme.py/runme.py.py)
+[Challenge](runme.py.py)
 
 ## Solution
 
