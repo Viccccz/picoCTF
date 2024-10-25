@@ -9,7 +9,7 @@ _#caesar_<br>
 
 Can you get the real meaning from this file. 
 
-[Challenge](../interencdec/interencdec.pdf)
+[Challenge](interencdec.pdf)
 
 ## Solution
 
