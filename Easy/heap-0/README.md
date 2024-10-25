@@ -8,8 +8,8 @@ _#heap_<br>
 
 Are ***overflows*** just a stack concern?<br>
 
-Download the binary. [here](../heap_0/heap_0)<br>
-Download the source. [here](../heap_0/heap_0.c)
+Download the binary. [here](heap-0)<br>
+Download the source. [here](heap-0.c)
 
 ## Solution
 
