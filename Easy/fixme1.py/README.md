@@ -7,7 +7,7 @@ _#Python_<br>
 
 Fix the ***syntax error*** in the Python script to print the flag.
 
-[Challenge](../fixme1.py/fixme1.py)
+[Challenge](fixme1.py)
 
 ## Solution
 
