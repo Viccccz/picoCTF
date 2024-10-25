@@ -7,7 +7,7 @@ _#base64_<br>
 
 Can you make sense of this file?
 
-[Challenge](../repetitions/repetitions)
+[Challenge](repetitions)
 
 ## Solution
 
