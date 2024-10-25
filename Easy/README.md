@@ -14,7 +14,7 @@
 12. [Cookies](Cookies)
 13. [First-Find](First-Find)
 14. [First-Grep](First-Grep)
-15. [Get-aHead](Get-aHead)
+15. [Get-aHEAD](Get-aHEAD)
 16. [Glitch-Cat](Glitch-Cat)
 17. [Glory-of-the-Garden](Glory-of-the-Garden)
 18. [HashingJobApp](HashingJobApp)
