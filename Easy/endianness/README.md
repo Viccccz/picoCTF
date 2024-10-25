@@ -7,7 +7,7 @@ _#browser_webshell_solvable_<br>
 
 Know of ***little and big endian***?
 
-[Challenge](../endianness/endianness.c)
+[Challenge](endianness.c)
 
 ## Solution
 
