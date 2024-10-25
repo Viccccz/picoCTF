@@ -6,7 +6,7 @@ _#picoCTF_2019_<br>
 
 Can you find the flag in file without running it?
 
-[Challenge](strings_it)
+[Challenge](strings-it)
 
 ## Solution
 
