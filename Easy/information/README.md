@@ -6,7 +6,7 @@ _#picoCTF_2021_<br>
 
 Files can always be ***changed*** in a secret way. Can you find the flag? 
 
-[Challenge](../information/information.jpg)
+[Challenge](information.jpg)
 
 ## Solution
 
