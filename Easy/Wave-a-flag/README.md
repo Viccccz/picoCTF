@@ -4,7 +4,7 @@ _#Easy_<br>
 _#General_Skills_<br>
 _#picoCTF_2021_<br>
 
-Can you invoke help flags for a tool or binary? [This program](../Wave_a_flag/wave_a_flag) has extraordinarily helpful information...
+Can you invoke help flags for a tool or binary? [This program](Wave-a-flag) has extraordinarily helpful information...
 
 ## Solution
 
