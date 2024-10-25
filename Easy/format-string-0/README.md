@@ -8,8 +8,8 @@ _#format_string_<br>
 
 Can you use your knowledge of ***format strings*** to make the customers happy?<br>
 
-Download the binary. [here](../format_string_0/format_string_0)<br>
-Download the source. [here](../format_string_0/format_string_0.c)
+Download the binary. [here](format-string-0)<br>
+Download the source. [here](format-string-0.c)
 
 ## Solution
 
