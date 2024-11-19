@@ -1,3 +1,3 @@
 # CTF Challenge List
 
-1. [format-string-3](format-string-3)
+1. [format-string-1](format-string-1)
