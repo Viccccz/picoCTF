@@ -1,29 +1,50 @@
 # CTF Challenge List
 
+## Web Exploitation
+1. [WebDecode](WebDecode)
+2. [Unminify](Unminify)
+3. [IntroToBurp](IntroToBurp)
+4. [Bookmarklet](Bookmarklet)
+5. [Local-Authority](Local-Authority)
+6. [Inspect-HTML](Inspect-HTML)
+7. [Includes](Includes)
+8. [Cookies](Cookies)
+9. [Scavenger-Hunt](Scavenger-Hunt)
+10. [Get-aHEAD](Get-aHEAD)
+11. [dont-use-client-side](dont-use-client-side)
+12. [logon](logon)
+13. [Insp3ct0r](Insp3ct0r)
+14. [where-are-the-robots](where-are-the-robots)
+
+## Cryptography
+
+
+
+
 1. [13](13)
 2. [2Warm](2Warm)
 3. [Bases](Bases)
 4. [Big-Zip](Big-Zip)
 5. [Binary-Search](Binary-Search)
 6. [Blame-Game](Blame-Game)
-7. [Bookmarklet](Bookmarklet)
+
 8. [CanYouSee](CanYouSee)
 9. [Codebook](Codebook)
 10. [Collaborative-Development](Collaborative-Development)
 11. [Commitment-Issues](Commitment-Issues)
-12. [Cookies](Cookies)
+
 13. [First-Find](First-Find)
 14. [First-Grep](First-Grep)
-15. [Get-aHEAD](Get-aHEAD)
+
 16. [Glitch-Cat](Glitch-Cat)
 17. [Glory-of-the-Garden](Glory-of-the-Garden)
 18. [HashingJobApp](HashingJobApp)
-19. [Includes](Includes)
-20. [Insp3ct0r](Insp3ct0r)
-21. [Inspect-HTML](Inspect-HTML)
-22. [IntroToBurp](IntroToBurp)
+
+
+
+
 23. [Lets-Warm-Up](Lets-Warm-Up)
-24. [Local-Authority](Local-Authority)
+
 25. [Magikarp-Ground-Mission](Magikarp-Ground-Mission)
 26. [Mod-26](Mod-26)
 27. [Nice-netcat](Nice-netcat)
@@ -32,7 +53,7 @@
 30. [PW-Crack-2](PW-Crack-2)
 31. [Python-Wrangling](Python-Wrangling)
 32. [Scan-Surprise](Scan-Surprise)
-33. [Scavenger-Hunt](Scavenger-Hunt)
+
 34. [Secret-of-the-Polyglot](Secret-of-the-Polyglot)
 35. [Static-aint't-always-noise](Static-aint't-always-noise)
 36. [Super-SSH](Super-SSH)
@@ -40,11 +61,12 @@
 38. [The-Numbers](The-Numbers)
 39. [The-Machine](The-Machine)
 40. [Transformation](Transformation)
-41. [Unminify](Unminify)
+
 42. [Verify](Verify)
 43. [Warmed-Up](Warmed-Up)
 44. [Wave-a-flag](Wave-a-flag)
-45. [WebDecode](WebDecode)
+
+
 46. [binhexa](binhexa)
 47. [convertme.py](convertme.py)
 48. [dont-use-client-side](dont-use-client-side)
@@ -55,10 +77,10 @@
 53. [heap-0](heap-0)
 54. [information](information)
 55. [interencdec](interencdec)
-56. [logon](logon)
+
 57. [repetitions](repetitions)
 58. [runme.py](runme.py)
 59. [strings-it](strings-it)
 60. [vault-door-training](vault-door-training)
 61. [what's-a-net-cat](what's-a-net-cat)
-62. [where-are-the-robots](where-are-the-robots)
+
