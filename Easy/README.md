@@ -1,4 +1,5 @@
 # CTF Challenge List
+Every single challenge is organized regarding categories.
 
 ## Web Exploitation
 1. [WebDecode](WebDecode)
