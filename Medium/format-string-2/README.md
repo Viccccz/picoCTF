@@ -8,7 +8,7 @@ _#browser_webshell_solvable_<br>
 
 This program is not impressed by cheap parlor tricks like reading arbitrary data off the stack. To impress this program you must change data on the stack!<br>
 Download the binary [here](../format-string-2).<br>
-Download the source [here](../format-string-2).
+Download the source [here](../format-string-2.c).
 
 ## Solution
 
