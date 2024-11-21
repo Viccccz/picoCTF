@@ -47,4 +47,6 @@ Download the source [here](../format-string-2.c).
    
    print("Flag: ", flag)
    ```
+
+   **The script above is got from [here](https://github.com/noamgariani11/picoCTF-2024-Writeup/blob/main/Binary%20Explotation/format-string-2.md).*
 6. Get the flag.
