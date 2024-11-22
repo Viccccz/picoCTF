@@ -17,7 +17,7 @@ Download libc [here](libc.so.6), download the interpreter [here](ld-linux-x86-64
    `chmod +x format-string-3 ld-linux-x86-64.so.2`
 
 2. Then, run the binary file to investigate the output and find out vulnerabilities.<br>
-   `./formst-string-3`
+   `./format-string-3`
 
    ![image](https://github.com/user-attachments/assets/ddb07337-8413-422b-bd0e-68d678e620bd)<br>
    *Note: After trying some inputs, it outputs some different answer. To read arbitrary stack values, input [format specifiers](https://unstop.com/blog/format-specifiers-in-c) such as %f (float) or %p (pointer).*
