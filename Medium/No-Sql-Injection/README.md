@@ -3,12 +3,9 @@
 _#Medium_<br>
 _#Binary_Exploitation_<br>
 _#picoCTF_2024_<br>
-_#format_string_<br>
 _#browser_webshell_solvable_<br>
 
-Patrick and Sponge Bob were really happy with ***those orders you made for them***, but now they're curious about the ***secret menu***. Find it, and along the way, maybe you'll find something else of interest!<br>
-Download the binary [here](../format-string-1).<br>
-Download the source [here](../format-string-1.c).
+Can you try to get access to this website to get the flag? You can download the source [here](../).
 
 ## Solution
 
