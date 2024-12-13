@@ -25,4 +25,3 @@ Download the source [here](../format-string-1.c).
 5. Re-arrange the memory addresses regarding to the little-endian order using [calculator online](https://www.save-editor.com/tools/wse_hex.html).
 6. Convert the result from hexadecimal.
 7. Get the flag.
-    
