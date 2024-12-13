@@ -9,5 +9,13 @@ Can you try to get access to this website to get the flag? You can download the 
 
 ## Solution
 
-1. 
+> [!NOTE]
+> - NoSQL injection is an attack that similar as SQL injection
+> - It uses more flexible data format
+> - Does not support SQL
+> - Typically store and manage the data as key pair values
+> - Most commonly delivered by an end-user
+> - Input not sanitized, allowing to include malicious input
+
+
     
