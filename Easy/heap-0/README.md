@@ -14,7 +14,7 @@ Download the source. [here](heap-0.c)
 ## Solution
 
 ### Heap  
-An Area of pre-reserved computer main storage (memory) that a program process can use to store data.<br>
+An area of pre-reserved computer main storage (memory) that a program process can use to store data.<br>
 In this case, we need to overflow the memory and hence it display the flag.<br>
 
 1. Select option __1__ to check for the heap state.
