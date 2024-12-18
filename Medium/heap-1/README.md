@@ -12,6 +12,6 @@ Download the source [here](../chall.c).
 
 ## Solution
 
-This challenge is the evolve version of the [heap 0](Easy/heap-0/README.md) from the easy category.
+This challenge is the evolve version of the [heap 0](../../Easy/heap-0/README.md) from the easy category.
     
 
