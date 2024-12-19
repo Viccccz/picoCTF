@@ -24,11 +24,11 @@ I then reviewed the source code to identify any possible way to obtain the flag.
 
 In this case, we need to access the win function to obtain the flag. Therefore, we must locate the address of the win function. To do this, I used the command `objdump -D chall > output.txt` to export the output to a .txt file. Search for win in the output.txt file to find its address. Then, convert the address to little-endian format by using [endian converter](https://blockchain-academy.hs-mittweida.de/litte-big-endian-converter/).
 
-![image](https://github.com/user-attachments/assets/8c317638-ed8d-4628-8188-86c9ae43645d)<br>
-**The highlighted part is the address of win function.*
-
 > [!NOTE]
 > When writing payload scripts, little-endian format must be used.
+
+![image](https://github.com/user-attachments/assets/8c317638-ed8d-4628-8188-86c9ae43645d)<br>
+**The highlighted part is the address of win function.*
 
 ```python
 from pwn import *
