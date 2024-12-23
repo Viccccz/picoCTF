@@ -6,7 +6,7 @@ _#picoCTF_2024_<br>
 _#format_string_<br>
 _#heap_<br>
 
-Can you handle function pointers?<br>
+Can you handle ***function pointers***?<br>
 Download the binary [here](../chall).<br>
 Download the source [here](../chall.c).
 
