@@ -5,7 +5,7 @@ _#Binary_Exploitation_<br>
 _#picoCTF_2024_<br>
 _#browser_webshell_solvable_<br>
 
-I found a web app that can help process images: PNG images only!
+I found a web app that can help process images: ***PNG images only***!
 
 ## Solution
 
