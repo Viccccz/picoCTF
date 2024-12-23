@@ -6,7 +6,7 @@ _#picoCTF_2024_<br>
 _#format_string_<br>
 _#heap_<br>
 
-This program mishandles memory. Can you exploit it to get the flag?<br>
+This program ***mishandles memory***. Can you exploit it to get the flag?<br>
 Download the binary [here](../chall-1).<br>
 Download the source [here](../chall.c).
 
