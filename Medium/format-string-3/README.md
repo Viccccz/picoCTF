@@ -43,10 +43,12 @@ From this, I tested again with the input `AAAAAAAA%2$p` to observe the output. T
 > [!TIP]
 > Ideally, the format specifier **%n$p** where n is an offset to point exactly at the start of the input string. You can do this manually (%p, %2$p, %3$p…) until %p points to the desired input string.
 
-Now, I can know the offset of the input string and hence can get use of the obtained offset to overwrite it. In this case, 
+Now, I can determine the offset of the input string by entering 8 'A's followed by as many %p placeholders as possible. This allows me to clearly identify where the input appears in the displayed output.
 
-![image](https://github.com/user-attachments/assets/3311c030-448c-46ee-b452-1596aa511be0)
+![image](https://github.com/user-attachments/assets/3311c030-448c-46ee-b452-1596aa511be0)<br>
+**The input is at the 38th position.*
 
+Once I gathered all the necessary information, I prepared a script to incorporate everything needed to exploit the shell and retrieve the flag. The script used is shown below.
 
 ``` python
 #!/usr/bin/env python3
