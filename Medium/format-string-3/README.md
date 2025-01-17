@@ -21,7 +21,7 @@ To begin, I examined the source code to identify any vulnerabilities that could 
 ![image](https://github.com/user-attachments/assets/6cc812fe-ad8a-4d4d-a782-3402ec58fc9e)<br>
 **The source code.*
 
-Once I understood the concept of exploiting this challenge, I began by running the provided program to observe its execution and output. To do this, I connected to the challenge instance on the PicoCTF site by entering the command nc rhea.picoctf.net 64550 in the Kali terminal. To test upon the input and observe the output, I input a simple string as input to the program, which will be printed back to stdout(buf) function call.
+Once I understood the concept of exploiting this challenge, I began by running the provided program to observe its execution and output. To do this, I connected to the challenge instance on the PicoCTF site by entering the command `nc rhea.picoctf.net 53133` in the Kali terminal. To test upon the input and observe the output, I input a simple string as input to the program, which will be printed back to stdout(buf) function call.
 
 ![image](https://github.com/user-attachments/assets/4fe4f694-24f7-4c0d-80e0-d365cdd464e1)<br>
 **The stdin and stdout function call.*
@@ -30,7 +30,7 @@ In this case, I know I can use format specifiers to read arbitrary stack values.
 
 > [!NOTE]
 > Arbitrary stack value  
-> From what I understand, it seems to involve the addresses for inputs. Whenever we enter something into the program, it gets stored in the program's background process. Hence, we can simply use the format specifiers like %x (hexadecimal) or %p (pointers) to read the arbitrary values from the program.
+> From what I understand, it seems to involve the addresses for inputs. Whenever we enter something into the program, it gets stored in the program's background process. Hence, we can simply use the **format specifiers** like %x (hexadecimal) or %p (pointers) to read the arbitrary values from the program.
 
 ![image](https://github.com/user-attachments/assets/487a6098-68f9-41c7-9f82-aa99b42c927d)<br>
 **The output of input testing.*
