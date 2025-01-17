@@ -92,8 +92,8 @@ def create_payload():
 
 
 def main():
-    # Connect to the target binary (remote or local)
-    io = remote("rhea.picoctf.net", 64550)
+    # Connect to the target binary (remote)
+    io = remote("rhea.picoctf.net", 53133)
 
     # Attach GDB for debugging if required
     if args.GDB:
